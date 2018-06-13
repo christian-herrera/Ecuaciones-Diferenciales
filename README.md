@@ -1,5 +1,5 @@
 # Ecuaciones-Diferenciales
-Metodos para resolver ecuaciones diferenciales con distintos metodos
+Metodos para resolver ecuaciones diferenciales.
 
 Cada algoritmo esta explicado con comentarios.
 
